@@ -1,124 +1,33 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>🙏🏻, I'm Nadeem Khan Qureshi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Senior Software Engineer at <a href="https://www.oneorigin.us/">OneOrigin
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1 align="center">Hi 👋, I'm Nadeem Khan Qureshi</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![Yensubldg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=23E1FFD5&center=true&vCenter=true&width=435&lines=Trying+to+be+a+Front-end+Developer)
 
-### 📫 Like to meet me?
+[![wakatime](https://wakatime.com/badge/user/142b1bc6-ff5b-4ae8-a7c1-b5c1124e694c.svg)](https://wakatime.com/@142b1bc6-ff5b-4ae8-a7c1-b5c1124e694c)
+<!-- 
+![](https://komarev.com/ghpvc/?username=yensubldg&label=Visitors+Count&color=brightgreen) -->
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+- 🌱 I’m currently learning **Frameworks, courses, etc**
 
-<a href="https://calendly.com/khannikkey/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+- 📫 How to reach me **windev.thang@gmail.com**
 
-👇 Hit in your console or terminal to connect with me.
+- ⚡ Fun fact **I think I'm funny**
 
-```bash
-npx khannikkey
-```
-**👆 This command line tool can be found at [npx khannikkey](https://github.com/anmol098/npx_card)**
+## My certificate in [here](./MY_CERTIFICATE.md)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yensubldg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yensubldg) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@windev.winstudio) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yensubldg5g) 
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express", "Django"],
-        },
-        mobileApp: {
-            native: ["React Native"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+<!-- BLOG-POST-LIST:START -->
+- [Multiples mode using same as dark mode class by Tailwindcss](https://dev.to/yensubldg/multiples-mode-using-same-as-dark-mode-class-by-tailwindcss-56p4)
+- [Multiple item using one ref](https://dev.to/yensubldg/multiple-item-using-one-ref-1288)
+<!-- BLOG-POST-LIST:END -->
+# 📊GitHub Stats :
+ <p><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&theme=react&layout=compact&hide=vue,php,html,blade&langs_count=8&exclude_repo=CMU-SE252,Computer-Science-for-Practicing-Engineers-Software-Construction" alt="yensubldg" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yensubldg&count_private=true&theme=react&show_icons=true" alt="yensubldg" /> </p>
+<p align="center">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yensubldg&theme=react&hide_border=false" alt="yensubldg" />
+</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C127%20hrs%2041%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-901-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-🌆 Daytime    343 commits    ██████████░░░░░░░░░░░░░░░   40.88% 
-🌃 Evening    269 commits    ████████░░░░░░░░░░░░░░░░░   32.06% 
-🌙 Night      121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Tuesday      105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.51% 
-Wednesday    116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
-Thursday     108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
-Friday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
-Saturday     121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
-Sunday       168 commits    █████░░░░░░░░░░░░░░░░░░░░   20.02%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Vue.js                   12 hrs 32 mins      ████████████████░░░░░░░░░   65.79% 
-JavaScript               5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   27.39% 
-protobuf                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
-Protocol Buffer          30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
-
-🔥 Editors: 
-WebStorm                 19 hrs 3 mins       █████████████████████████   99.92% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-💻 Operating System: 
-Mac                      19 hrs 4 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            ████████████░░░░░░░░░░░░░   49.25% 
-Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
-
-```
-
-
-
- Last Updated on 01/12/2022 02:10:41 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+![](https://activity-graph.herokuapp.com/graph?username=yensubldg&theme=dracula&hide_border=false)
