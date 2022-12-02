@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses, etc**
 
-- 📫 How to reach me **windev.thang@gmail.com**
+- 📫 How to reach me **khannikkey@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
@@ -23,11 +23,3 @@
 - [Multiples mode using same as dark mode class by Tailwindcss](https://dev.to/yensubldg/multiples-mode-using-same-as-dark-mode-class-by-tailwindcss-56p4)
 - [Multiple item using one ref](https://dev.to/yensubldg/multiple-item-using-one-ref-1288)
 <!-- BLOG-POST-LIST:END -->
-# 📊GitHub Stats :
- <p><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&theme=react&layout=compact&hide=vue,php,html,blade&langs_count=8&exclude_repo=CMU-SE252,Computer-Science-for-Practicing-Engineers-Software-Construction" alt="yensubldg" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yensubldg&count_private=true&theme=react&show_icons=true" alt="yensubldg" /> </p>
-<p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yensubldg&theme=react&hide_border=false" alt="yensubldg" />
-</p>
-
-![](https://activity-graph.herokuapp.com/graph?username=yensubldg&theme=dracula&hide_border=false)
