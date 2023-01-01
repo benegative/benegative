@@ -2,9 +2,6 @@
 
 ![Yensubldg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=23E1FFD5&center=true&vCenter=true&width=435&lines=Trying+to+be+a+Front-end+Developer)
 
-[![wakatime](https://wakatime.com/badge/user/142b1bc6-ff5b-4ae8-a7c1-b5c1124e694c.svg)](https://wakatime.com/@142b1bc6-ff5b-4ae8-a7c1-b5c1124e694c)
-<!-- 
-![](https://komarev.com/ghpvc/?username=yensubldg&label=Visitors+Count&color=brightgreen) -->
 
 - 🌱 I’m currently learning **Frameworks, courses, etc**
 
